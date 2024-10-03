@@ -10,3 +10,7 @@ python Shellchecker.py <shell-list.txt>
 ```
  
 A bit slow but very accurate
+
+### My Accounts
+
+* [TELEGRAM](https://t.me/DefacErr)
